@@ -1,0 +1,9 @@
+{
+  "name": "algo-engineer",
+  "version": "1.0.0",
+  "description": "Algorithm design, system architecture, and software engineering problem-solving",
+  "main": "SKILL.md",
+  "keywords": ["algorithm", "system-design", "architecture", "engineering", "code-review"],
+  "author": "Li Li",
+  "license": "MIT"
+}

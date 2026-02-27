@@ -1,0 +1,12 @@
+{
+  "name": "agent-architect",
+  "version": "1.0.0",
+  "description": "AI Agent 架构设计助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"require('./index.js'); console.log('ok')\""
+  },
+  "keywords": ["agent", "architecture", "design", "pattern"],
+  "author": "Li Li",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tech-writer",
+  "version": "1.0.0",
+  "description": "Technical writing and content creation for AI, software engineering, and technology topics",
+  "main": "SKILL.md",
+  "keywords": ["writing", "technical", "content", "blog", "documentation"],
+  "author": "Li Li",
+  "license": "MIT"
+}
